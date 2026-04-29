@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-1acylcj9izyhqtm11sntif0o3ae2van8",
+  "slug": "bgpt-paper-search",
+  "version": "1.0.0",
+  "publishedAt": 1777429953263,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

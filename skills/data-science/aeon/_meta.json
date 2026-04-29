@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-9wu8j1izqgui79t3jabcdfylhtdus56f",
+  "slug": "aeon",
+  "version": "1.0.0",
+  "publishedAt": 1777429953248,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

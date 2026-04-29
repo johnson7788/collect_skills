@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-cnot9enhdts9r0ft9vhutpe9a5wue3fr",
+  "slug": "data-visualization-biomedical",
+  "version": "1.0.0",
+  "publishedAt": 1777429953251,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

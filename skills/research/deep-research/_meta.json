@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-v089nhil5dala4tfsgv0wkk0pgrx3ype",
+  "slug": "deep-research",
+  "version": "1.0.0",
+  "publishedAt": 1777429953263,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

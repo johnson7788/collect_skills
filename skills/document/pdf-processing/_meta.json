@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-gdf6cxmd3ph8dg5i5ek3y80f4j9llyq4",
+  "slug": "pdf-processing",
+  "version": "1.0.0",
+  "publishedAt": 1777429953258,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

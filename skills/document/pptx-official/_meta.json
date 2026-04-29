@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-6e0ac90vafgrm3w9a3tno061x40gb0zp",
+  "slug": "pptx-official",
+  "version": "1.0.0",
+  "publishedAt": 1777429953260,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

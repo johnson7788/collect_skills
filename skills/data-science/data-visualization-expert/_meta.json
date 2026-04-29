@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-tavlkgvgej3l2uuop6mlpp7pt3qqb8zv",
+  "slug": "data-visualization-expert",
+  "version": "1.0.0",
+  "publishedAt": 1777429953252,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-5bbo9ejxyjik4umz46omxmo2jr7ixfy3",
+  "slug": "data-viz-plots",
+  "version": "1.0.0",
+  "publishedAt": 1777429953253,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

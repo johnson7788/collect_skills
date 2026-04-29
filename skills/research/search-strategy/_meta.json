@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-wyq4oljud12yxp8vkxd4todmayanuggw",
+  "slug": "search-strategy",
+  "version": "1.0.0",
+  "publishedAt": 1777429953268,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-4q5djs7b5c1biha25y7oo5izzyvmos1w",
+  "slug": "variant-interpretation-acmg",
+  "version": "1.0.0",
+  "publishedAt": 1777429953269,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

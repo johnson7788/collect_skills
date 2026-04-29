@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-9fzazn17b0ppnkg1zi3vw8w3zi2srev6",
+  "slug": "bayesian-optimizer",
+  "version": "1.0.0",
+  "publishedAt": 1777429953249,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

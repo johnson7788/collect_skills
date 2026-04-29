@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-c75iuv6jt2tk4j69d5upr0w7k6bi951v",
+  "slug": "pubmed-search",
+  "version": "1.0.0",
+  "publishedAt": 1777429953267,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

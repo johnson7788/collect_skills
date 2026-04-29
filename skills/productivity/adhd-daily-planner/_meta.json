@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-1vsvrkffo934qzg1tt5lf5xgpbu39x1n",
+  "slug": "adhd-daily-planner",
+  "version": "1.0.0",
+  "publishedAt": 1777429953261,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

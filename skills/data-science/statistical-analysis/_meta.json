@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-358n88mjhqgb5nllvj1wnf3nh3ao41vw",
+  "slug": "statistical-analysis",
+  "version": "1.0.0",
+  "publishedAt": 1777429953254,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

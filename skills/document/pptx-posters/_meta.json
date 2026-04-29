@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-xb3xfyusjk5s5m31x410by8jncd7s9c7",
+  "slug": "pptx-posters",
+  "version": "1.0.0",
+  "publishedAt": 1777429953260,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

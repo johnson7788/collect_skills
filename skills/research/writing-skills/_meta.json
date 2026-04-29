@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-ch2idra0gky0jn3s8yn8x4fws1vrh9v4",
+  "slug": "writing-skills",
+  "version": "1.0.0",
+  "publishedAt": 1777429953270,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

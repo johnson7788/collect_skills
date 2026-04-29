@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-hmziizwye0rfpqmcq9h2n9fe22eba7yz",
+  "slug": "data-stats-analysis",
+  "version": "1.0.0",
+  "publishedAt": 1777429953250,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

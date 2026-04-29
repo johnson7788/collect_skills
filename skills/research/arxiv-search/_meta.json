@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-fiossynqkvgzg1lzuh100m1qhpz74hwa",
+  "slug": "arxiv-search",
+  "version": "1.0.0",
+  "publishedAt": 1777429953263,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

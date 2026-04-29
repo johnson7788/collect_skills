@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-wik59xbqehad9z1pgxpo5y6e9006dwju",
+  "slug": "pdf-processing-pro",
+  "version": "1.0.0",
+  "publishedAt": 1777429953258,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

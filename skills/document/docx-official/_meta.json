@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-3afd37ao73ofelru3cgtluddk0yd7bq2",
+  "slug": "docx-official",
+  "version": "1.0.0",
+  "publishedAt": 1777429953256,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

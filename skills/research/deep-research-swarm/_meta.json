@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-sgac8plklmbmn51i0kfb9m9b1sfej4ik",
+  "slug": "deep-research-swarm",
+  "version": "1.0.0",
+  "publishedAt": 1777429953265,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

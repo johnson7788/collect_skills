@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-0p73oa3x8a6h4p7v9r0nexgtzm7vq00l",
+  "slug": "pdf-anthropic",
+  "version": "1.0.0",
+  "publishedAt": 1777429953257,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}

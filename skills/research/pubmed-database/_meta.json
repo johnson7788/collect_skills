@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-xgi2vdiwp6u3s54jatqdd1fnq1sfe4bh",
+  "slug": "pubmed-database",
+  "version": "1.0.0",
+  "publishedAt": 1777429953266,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-29",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}
