@@ -32,6 +32,14 @@
       "icon": "⚡",
       "description": "浏览器自动化、任务规划等通用效率提升工具",
       "order": 4
+    },
+    {
+      "id": "video",
+      "name": "视频制作",
+      "name_en": "Video Production",
+      "icon": "🎬",
+      "description": "HTML 转视频、动画渲染等多媒体内容生成工具",
+      "order": 5
     }
   ]
 }
