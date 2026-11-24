@@ -1,0 +1,15 @@
+{
+  "ownerId": "skill-x0s9jalkib5m6rtxmag7zuyhinr18m1c",
+  "slug": "browser-assisted-crawl",
+  "version": "1.0.0",
+  "publishedAt": 1795497109114,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-24",
+      "changes": [
+        "初始版本发布"
+      ]
+    }
+  ]
+}
